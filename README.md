@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-
-Rock-Paper-Scissors project from hyperskill
+# Rock-Paper-Scissors
+A game project from JetBrains Academy (hyperskill)
