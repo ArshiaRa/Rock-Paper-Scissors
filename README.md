@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-
-Rock-Paper-Scissors project from hyperskills
+Rock-Paper-Scissors project from hyperskill
